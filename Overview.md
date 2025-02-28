@@ -21,7 +21,6 @@
 15. [advanced-rebase-interactive](advanced-rebase-interactive/README.md) - Practice using the interactive rebase commands.
 16. [basic-stashing](basic-stashing/README.md) - The first stride into stashing.
 17. [ignore](ignore/README.md) - The basics of using the `.gitignore` file. And using `git rm`.
-18. [submodules](submodules/README.md) - Submodules are loathed by many. Run through this exercise to see what the ruckus is all about.
 19. [git-tag](git-tag//README.md) - Tags are convenient for keeping track of commits that bump a version number. In this exercise, you will list, add and delete tags.
 
 ## Katas that solve standard problems
