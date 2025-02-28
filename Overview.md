@@ -15,7 +15,6 @@
 7. [merge-mergesort](merge-mergesort/README.md) - A merge conflict with actual code.
 9. [basic-revert](basic-revert/README.md) - Use revert to revert a change
 10. [reset](reset/README.md) - Reset is a powerful and slightly dangerous command if you do not know what you are doing. Go through the three modes of resetting here.
-11. [basic-cleaning](basic-cleaning/README.md) - Cleaning the workspace.
 12. [amend](amend/README.md) - Amending previous commits.
 13. [reorder-the-history](reorder-the-history/README.md) - We might have created our commits in a suboptimal order, practice to fix that scenario here.
 14. [squashing](squashing/README.md) - A lot of small commits is good when you are working locally, but for sharing your code, it might be more beneficial to deliver your code changes in large sets. Go here to experiment with that. Write a good commit
